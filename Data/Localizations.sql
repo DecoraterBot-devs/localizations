@@ -29,4 +29,5 @@ VALUES
 	(26, 26, 'zh-CN'), -- Chinese, China
 	(27, 27, 'zh-TW'), -- Chinese, Taiwan
 	(28, 28, 'ja'), -- Japanese
-	(29, 29, 'ko'); -- Korean
+	(29, 29, 'ko'), -- Korean
+	(30, 30, 'id'); -- Indonesian
